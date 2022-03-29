@@ -11,6 +11,7 @@ public class Level1 : MonoBehaviour
     private void Start()
     {
         loadSceneManager = GameObject.FindGameObjectWithTag("SceneLoad").GetComponent<LoadSceneManager>();
+        Debug.Log(PlayerPrefs.GetString("nickname", "unknow"));
     }
 
     private void OnTriggerEnter2D(Collider2D col)

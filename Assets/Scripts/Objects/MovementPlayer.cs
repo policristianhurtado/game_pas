@@ -25,40 +25,45 @@ public class MovementPlayer : MonoBehaviour
         vertical = Input.GetAxisRaw("Vertical");
 
 
-        // Debug.Log(horizontal);
+        // Debug.Log("h: " + horizontal + ", v: " + vertical);
         
-        if (horizontal < 0.0f)
+        transform.localScale = new Vector3(1.0f, 1.0f, 1.0f);
+        if (horizontal == 0.0f && vertical == 0.0f)
         {
-            transform.localScale = new Vector3(-1.0f, 1.0f, 1.0f);
-            Animator.SetBool("Left", true);
+            Animator.SetBool("Left", false);
             Animator.SetBool("Right", false);
             Animator.SetBool("Down", false);
             Animator.SetBool("Up", false);
         }
-        else if (horizontal > 0.0f)
+        
+        if (horizontal < 0.0f)
         {
-            transform.localScale = new Vector3(1.0f, 1.0f, 1.0f);
-            Animator.SetBool("Left", false);
-            Animator.SetBool("Right", true);
             Animator.SetBool("Down", false);
             Animator.SetBool("Up", false);
+            Animator.SetBool("Left", true);
+            Animator.SetBool("Right", false);
+        }
+        else if (horizontal > 0.0f)
+        {
+            Animator.SetBool("Down", false);
+            Animator.SetBool("Up", false);
+            Animator.SetBool("Left", false);
+            Animator.SetBool("Right", true);
         }
 
         if (vertical < 0.0f)
         {
-            transform.localScale = new Vector3(1.0f, 1.0f, 1.0f);
+            Animator.SetBool("Down", true);
+            Animator.SetBool("Up", false);
             Animator.SetBool("Left", false);
             Animator.SetBool("Right", false);
-            Animator.SetBool("Down", vertical != 0.0f);
-            Animator.SetBool("Up", false);
         }
         else if (vertical > 0.0f)
         {
-            transform.localScale = new Vector3(1.0f, 1.0f, 1.0f);
+            Animator.SetBool("Down", false);
+            Animator.SetBool("Up", true);
             Animator.SetBool("Left", false);
             Animator.SetBool("Right", false);
-            Animator.SetBool("Down", false);
-            Animator.SetBool("Up", vertical != 0.0f);
         }
         
         // direccion = new Vector2(Input.GetAxisRaw("Horizontal"), Input.GetAxisRaw("Vertical")).normalized;

@@ -13,9 +13,7 @@ public class LoadSceneManager : MonoBehaviour
         transitionAnimator = GetComponentInChildren<Animator>();
         Debug.Log(transitionAnimator);
     }
-
     
-
     public void LoadNextScene(int scene)
     {
         StartCoroutine(SceneLoad(scene));
