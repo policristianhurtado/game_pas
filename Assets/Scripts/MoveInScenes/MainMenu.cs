@@ -12,8 +12,6 @@ public class MainMenu : MonoBehaviour
     private string nickname;
     private string nicknamePrefsName = "nickname";
     
-    private Dictionary<int, string> list_players = new Dictionary<int, string>();
-
     private void Awake()
     {
         LoadData();
@@ -63,6 +61,7 @@ public class MainMenu : MonoBehaviour
     public void LoadData()
     {
         nickname = PlayerPrefs.GetString(nicknamePrefsName, "unknow");
+        Debug.Log(nickname);
     }
     
 }

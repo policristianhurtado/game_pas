@@ -13,6 +13,7 @@ public class MovementPlayer : MonoBehaviour
     private float horizontal;
     private float vertical;
     
+    
     void Start()
     {
         Rigidbody2D = transform.GetComponent<Rigidbody2D>();
@@ -23,7 +24,6 @@ public class MovementPlayer : MonoBehaviour
     {
         horizontal = Input.GetAxisRaw("Horizontal");
         vertical = Input.GetAxisRaw("Vertical");
-
 
         // Debug.Log("h: " + horizontal + ", v: " + vertical);
         
