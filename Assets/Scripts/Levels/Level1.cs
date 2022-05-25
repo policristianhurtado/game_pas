@@ -3,6 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using WindowsInput;
 
 public class Level1 : MonoBehaviour
 {
@@ -18,6 +19,9 @@ public class Level1 : MonoBehaviour
     {
         if (col.gameObject.tag == "Player")
         {
+            InputSimulator inputSimulator = new InputSimulator();
+            inputSimulator.Keyboard.KeyUp(WindowsInput.Native.VirtualKeyCode.VK_D);
+            inputSimulator.Keyboard.KeyUp(WindowsInput.Native.VirtualKeyCode.VK_A);
             loadSceneManager.LoadNextScene(2); //LoadNextScene();
         }
     }

@@ -7,6 +7,7 @@ TagManager:
   - BoxLevel
   - SceneLoad
   - MainMenu
+  - popup
   layers:
   - Default
   - TransparentFX
