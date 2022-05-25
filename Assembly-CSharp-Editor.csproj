@@ -47,7 +47,7 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\TopDown 2D RPG BE3\ReadMe\Scripts\Editor\ReadmeEditorBE3.cs" />
+     <Compile Include="Assets\Imports\01 - TopDown 2D RPG BE3\ReadMe\Scripts\Editor\ReadmeEditorBE3.cs" />
  <Reference Include="UnityEngine">
  <HintPath>C:/Program Files/Unity 2020.3.30f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
  </Reference>
@@ -274,6 +274,7 @@
  <HintPath>C:/Program Files/Unity 2020.3.30f1/Editor/Data/Managed/UnityEditor.Graphs.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.WindowsStandalone.Extensions">
+<<<<<<< HEAD
  <HintPath>C:/Program Files/Unity 2020.3.30f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
  </Reference>
  <Reference Include="log4netPlastic">
@@ -299,6 +300,39 @@
  </Reference>
  <Reference Include="nunit.framework">
  <HintPath>C:/Users/Usuario/JUEGO UNITY COMPLETO/game_pas/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll</HintPath>
+=======
+ <HintPath>C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.Plastic.Newtonsoft.Json">
+ <HintPath>C:/Users/Cristian Hurtado/Desktop/Unity/Projectts/Ejemplo_git/game_pas/Library/PackageCache/com.unity.collab-proxy@1.15.12/Lib/Editor/PlasticSCM/Unity.Plastic.Newtonsoft.Json.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.Analytics.StandardEvents">
+ <HintPath>C:/Users/Cristian Hurtado/Desktop/Unity/Projectts/Ejemplo_git/game_pas/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.Analytics.Editor">
+ <HintPath>C:/Users/Cristian Hurtado/Desktop/Unity/Projectts/Ejemplo_git/game_pas/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.Plastic.Antlr3.Runtime">
+ <HintPath>C:/Users/Cristian Hurtado/Desktop/Unity/Projectts/Ejemplo_git/game_pas/Library/PackageCache/com.unity.collab-proxy@1.15.12/Lib/Editor/PlasticSCM/Unity.Plastic.Antlr3.Runtime.dll</HintPath>
+ </Reference>
+ <Reference Include="unityplastic">
+ <HintPath>C:/Users/Cristian Hurtado/Desktop/Unity/Projectts/Ejemplo_git/game_pas/Library/PackageCache/com.unity.collab-proxy@1.15.12/Lib/Editor/PlasticSCM/unityplastic.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.Purchasing">
+ <HintPath>C:/Users/Cristian Hurtado/Desktop/Unity/Projectts/Ejemplo_git/game_pas/Library/PackageCache/com.unity.purchasing@2.0.3/Editor/UnityEditor.Purchasing.dll</HintPath>
+ </Reference>
+ <Reference Include="log4netPlastic">
+ <HintPath>C:/Users/Cristian Hurtado/Desktop/Unity/Projectts/Ejemplo_git/game_pas/Library/PackageCache/com.unity.collab-proxy@1.15.12/Lib/Editor/PlasticSCM/log4netPlastic.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.Advertisements">
+ <HintPath>C:/Users/Cristian Hurtado/Desktop/Unity/Projectts/Ejemplo_git/game_pas/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.Analytics.Tracker">
+ <HintPath>C:/Users/Cristian Hurtado/Desktop/Unity/Projectts/Ejemplo_git/game_pas/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
+ </Reference>
+ <Reference Include="nunit.framework">
+ <HintPath>C:/Users/Cristian Hurtado/Desktop/Unity/Projectts/Ejemplo_git/game_pas/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll</HintPath>
+>>>>>>> develop
  </Reference>
  <Reference Include="mscorlib">
  <HintPath>C:/Program Files/Unity 2020.3.30f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
@@ -649,6 +683,7 @@
  <HintPath>C:/Program Files/Unity 2020.3.30f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Xml.XPath.XDocument.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.TestRunner">
+<<<<<<< HEAD
  <HintPath>C:/Users/Usuario/JUEGO UNITY COMPLETO/game_pas/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.TestRunner">
@@ -773,6 +808,99 @@
  </Reference>
  <Reference Include="Unity.2D.Common.Editor">
  <HintPath>C:/Users/Usuario/JUEGO UNITY COMPLETO/game_pas/Library/ScriptAssemblies/Unity.2D.Common.Editor.dll</HintPath>
+=======
+ <HintPath>C:/Users/Cristian Hurtado/Desktop/Unity/Projectts/Ejemplo_git/game_pas/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.TestRunner">
+ <HintPath>C:/Users/Cristian Hurtado/Desktop/Unity/Projectts/Ejemplo_git/game_pas/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.2D.Animation.Editor">
+ <HintPath>C:/Users/Cristian Hurtado/Desktop/Unity/Projectts/Ejemplo_git/game_pas/Library/ScriptAssemblies/Unity.2D.Animation.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.InternalAPIEngineBridge.001">
+ <HintPath>C:/Users/Cristian Hurtado/Desktop/Unity/Projectts/Ejemplo_git/game_pas/Library/ScriptAssemblies/Unity.InternalAPIEngineBridge.001.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.2D.PixelPerfect">
+ <HintPath>C:/Users/Cristian Hurtado/Desktop/Unity/Projectts/Ejemplo_git/game_pas/Library/ScriptAssemblies/Unity.2D.PixelPerfect.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.2D.Tilemap.Editor">
+ <HintPath>C:/Users/Cristian Hurtado/Desktop/Unity/Projectts/Ejemplo_git/game_pas/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="PsdPlugin">
+ <HintPath>C:/Users/Cristian Hurtado/Desktop/Unity/Projectts/Ejemplo_git/game_pas/Library/ScriptAssemblies/PsdPlugin.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.TextMeshPro.Editor">
+ <HintPath>C:/Users/Cristian Hurtado/Desktop/Unity/Projectts/Ejemplo_git/game_pas/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.Timeline">
+ <HintPath>C:/Users/Cristian Hurtado/Desktop/Unity/Projectts/Ejemplo_git/game_pas/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.TextMeshPro">
+ <HintPath>C:/Users/Cristian Hurtado/Desktop/Unity/Projectts/Ejemplo_git/game_pas/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.2D.IK.Editor">
+ <HintPath>C:/Users/Cristian Hurtado/Desktop/Unity/Projectts/Ejemplo_git/game_pas/Library/ScriptAssemblies/Unity.2D.IK.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.2D.Sprite.Editor">
+ <HintPath>C:/Users/Cristian Hurtado/Desktop/Unity/Projectts/Ejemplo_git/game_pas/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.2D.Psdimporter.Editor">
+ <HintPath>C:/Users/Cristian Hurtado/Desktop/Unity/Projectts/Ejemplo_git/game_pas/Library/ScriptAssemblies/Unity.2D.Psdimporter.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.2D.Path.Editor">
+ <HintPath>C:/Users/Cristian Hurtado/Desktop/Unity/Projectts/Ejemplo_git/game_pas/Library/ScriptAssemblies/Unity.2D.Path.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.InternalAPIEditorBridge.001">
+ <HintPath>C:/Users/Cristian Hurtado/Desktop/Unity/Projectts/Ejemplo_git/game_pas/Library/ScriptAssemblies/Unity.InternalAPIEditorBridge.001.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.UI">
+ <HintPath>C:/Users/Cristian Hurtado/Desktop/Unity/Projectts/Ejemplo_git/game_pas/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.PlasticSCM.Editor">
+ <HintPath>C:/Users/Cristian Hurtado/Desktop/Unity/Projectts/Ejemplo_git/game_pas/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.Rider.Editor">
+ <HintPath>C:/Users/Cristian Hurtado/Desktop/Unity/Projectts/Ejemplo_git/game_pas/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.UI">
+ <HintPath>C:/Users/Cristian Hurtado/Desktop/Unity/Projectts/Ejemplo_git/game_pas/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.Analytics.DataPrivacy">
+ <HintPath>C:/Users/Cristian Hurtado/Desktop/Unity/Projectts/Ejemplo_git/game_pas/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.Mathematics">
+ <HintPath>C:/Users/Cristian Hurtado/Desktop/Unity/Projectts/Ejemplo_git/game_pas/Library/ScriptAssemblies/Unity.Mathematics.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.2D.IK.Runtime">
+ <HintPath>C:/Users/Cristian Hurtado/Desktop/Unity/Projectts/Ejemplo_git/game_pas/Library/ScriptAssemblies/Unity.2D.IK.Runtime.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.2D.Animation.Triangle.Runtime">
+ <HintPath>C:/Users/Cristian Hurtado/Desktop/Unity/Projectts/Ejemplo_git/game_pas/Library/ScriptAssemblies/Unity.2D.Animation.Triangle.Runtime.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.2D.Animation.Runtime">
+ <HintPath>C:/Users/Cristian Hurtado/Desktop/Unity/Projectts/Ejemplo_git/game_pas/Library/ScriptAssemblies/Unity.2D.Animation.Runtime.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.2D.PixelPerfect.Editor">
+ <HintPath>C:/Users/Cristian Hurtado/Desktop/Unity/Projectts/Ejemplo_git/game_pas/Library/ScriptAssemblies/Unity.2D.PixelPerfect.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.Timeline.Editor">
+ <HintPath>C:/Users/Cristian Hurtado/Desktop/Unity/Projectts/Ejemplo_git/game_pas/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.Mathematics.Editor">
+ <HintPath>C:/Users/Cristian Hurtado/Desktop/Unity/Projectts/Ejemplo_git/game_pas/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.2D.Common.Runtime">
+ <HintPath>C:/Users/Cristian Hurtado/Desktop/Unity/Projectts/Ejemplo_git/game_pas/Library/ScriptAssemblies/Unity.2D.Common.Runtime.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.2D.SpriteShape.Editor">
+ <HintPath>C:/Users/Cristian Hurtado/Desktop/Unity/Projectts/Ejemplo_git/game_pas/Library/ScriptAssemblies/Unity.2D.SpriteShape.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.2D.Common.Editor">
+ <HintPath>C:/Users/Cristian Hurtado/Desktop/Unity/Projectts/Ejemplo_git/game_pas/Library/ScriptAssemblies/Unity.2D.Common.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.2D.SpriteShape.Runtime">
+ <HintPath>C:/Users/Cristian Hurtado/Desktop/Unity/Projectts/Ejemplo_git/game_pas/Library/ScriptAssemblies/Unity.2D.SpriteShape.Runtime.dll</HintPath>
+>>>>>>> develop
  </Reference>
   </ItemGroup>
   <ItemGroup>
