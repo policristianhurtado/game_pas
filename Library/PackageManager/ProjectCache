@@ -1,14 +1,24 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
 <<<<<<< HEAD
+    m_FilePath: C:/Users/Jhonnier Garcia/Desktop/Recursos Unity/copia gamepas/game_pas/Packages/manifest.json
+=======
+<<<<<<< HEAD
     m_FilePath: C:/Users/Usuario/JUEGO UNITY COMPLETO/game_pas/Packages/manifest.json
 =======
     m_FilePath: C:/Users/Cristian Hurtado/Desktop/Unity/Projectts/Ejemplo_git/game_pas/Packages/manifest.json
+>>>>>>> develop
 >>>>>>> develop
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
+<<<<<<< HEAD
+      ticks: 637890493667818993
+    m_Hash: 909622159
+  m_LockFileStatus:
+    m_FilePath: C:/Users/Jhonnier Garcia/Desktop/Recursos Unity/copia gamepas/game_pas/Packages/packages-lock.json
+=======
 <<<<<<< HEAD
       ticks: 637889929806953661
     m_Hash: 909622159
@@ -20,16 +30,22 @@ m_ProjectFiles:
   m_LockFileStatus:
     m_FilePath: C:/Users/Cristian Hurtado/Desktop/Unity/Projectts/Ejemplo_git/game_pas/Packages/packages-lock.json
 >>>>>>> develop
+>>>>>>> develop
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
+<<<<<<< HEAD
+      ticks: 637890496079427422
+    m_Hash: 2527724806
+=======
 <<<<<<< HEAD
       ticks: 637889931348481728
     m_Hash: 2527724806
 =======
       ticks: 637890477561426660
     m_Hash: 3593363630
+>>>>>>> develop
 >>>>>>> develop
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
@@ -42,9 +58,13 @@ m_PackageAssets:
       version: 5.1.0
       source: 1
 <<<<<<< HEAD
+      resolvedPath: C:\Users\Jhonnier Garcia\Desktop\Recursos Unity\copia gamepas\game_pas\Library\PackageCache\com.unity.2d.animation@5.1.0
+=======
+<<<<<<< HEAD
       resolvedPath: C:\Users\Usuario\JUEGO UNITY COMPLETO\game_pas\Library\PackageCache\com.unity.2d.animation@5.1.0
 =======
       resolvedPath: C:\Users\Cristian Hurtado\Desktop\Unity\Projectts\Ejemplo_git\game_pas\Library\PackageCache\com.unity.2d.animation@5.1.0
+>>>>>>> develop
 >>>>>>> develop
       assetPath: Packages/com.unity.2d.animation
       name: com.unity.2d.animation
@@ -216,9 +236,13 @@ m_PackageAssets:
       version: 4.0.1
       source: 1
 <<<<<<< HEAD
+      resolvedPath: C:\Users\Jhonnier Garcia\Desktop\Recursos Unity\copia gamepas\game_pas\Library\PackageCache\com.unity.2d.pixel-perfect@4.0.1
+=======
+<<<<<<< HEAD
       resolvedPath: C:\Users\Usuario\JUEGO UNITY COMPLETO\game_pas\Library\PackageCache\com.unity.2d.pixel-perfect@4.0.1
 =======
       resolvedPath: C:\Users\Cristian Hurtado\Desktop\Unity\Projectts\Ejemplo_git\game_pas\Library\PackageCache\com.unity.2d.pixel-perfect@4.0.1
+>>>>>>> develop
 >>>>>>> develop
       assetPath: Packages/com.unity.2d.pixel-perfect
       name: com.unity.2d.pixel-perfect
@@ -295,9 +319,13 @@ m_PackageAssets:
       version: 4.2.0
       source: 1
 <<<<<<< HEAD
+      resolvedPath: C:\Users\Jhonnier Garcia\Desktop\Recursos Unity\copia gamepas\game_pas\Library\PackageCache\com.unity.2d.psdimporter@4.2.0
+=======
+<<<<<<< HEAD
       resolvedPath: C:\Users\Usuario\JUEGO UNITY COMPLETO\game_pas\Library\PackageCache\com.unity.2d.psdimporter@4.2.0
 =======
       resolvedPath: C:\Users\Cristian Hurtado\Desktop\Unity\Projectts\Ejemplo_git\game_pas\Library\PackageCache\com.unity.2d.psdimporter@4.2.0
+>>>>>>> develop
 >>>>>>> develop
       assetPath: Packages/com.unity.2d.psdimporter
       name: com.unity.2d.psdimporter
@@ -434,9 +462,13 @@ m_PackageAssets:
       version: 1.0.0
       source: 2
 <<<<<<< HEAD
+      resolvedPath: C:\Users\Jhonnier Garcia\Desktop\Recursos Unity\copia gamepas\game_pas\Library\PackageCache\com.unity.2d.sprite@1.0.0
+=======
+<<<<<<< HEAD
       resolvedPath: C:\Users\Usuario\JUEGO UNITY COMPLETO\game_pas\Library\PackageCache\com.unity.2d.sprite@1.0.0
 =======
       resolvedPath: C:\Users\Cristian Hurtado\Desktop\Unity\Projectts\Ejemplo_git\game_pas\Library\PackageCache\com.unity.2d.sprite@1.0.0
+>>>>>>> develop
 >>>>>>> develop
       assetPath: Packages/com.unity.2d.sprite
       name: com.unity.2d.sprite
@@ -489,9 +521,13 @@ m_PackageAssets:
       version: 5.2.0
       source: 1
 <<<<<<< HEAD
+      resolvedPath: C:\Users\Jhonnier Garcia\Desktop\Recursos Unity\copia gamepas\game_pas\Library\PackageCache\com.unity.2d.spriteshape@5.2.0
+=======
+<<<<<<< HEAD
       resolvedPath: C:\Users\Usuario\JUEGO UNITY COMPLETO\game_pas\Library\PackageCache\com.unity.2d.spriteshape@5.2.0
 =======
       resolvedPath: C:\Users\Cristian Hurtado\Desktop\Unity\Projectts\Ejemplo_git\game_pas\Library\PackageCache\com.unity.2d.spriteshape@5.2.0
+>>>>>>> develop
 >>>>>>> develop
       assetPath: Packages/com.unity.2d.spriteshape
       name: com.unity.2d.spriteshape
@@ -647,9 +683,13 @@ m_PackageAssets:
       version: 1.0.0
       source: 2
 <<<<<<< HEAD
+      resolvedPath: C:\Users\Jhonnier Garcia\Desktop\Recursos Unity\copia gamepas\game_pas\Library\PackageCache\com.unity.2d.tilemap@1.0.0
+=======
+<<<<<<< HEAD
       resolvedPath: C:\Users\Usuario\JUEGO UNITY COMPLETO\game_pas\Library\PackageCache\com.unity.2d.tilemap@1.0.0
 =======
       resolvedPath: C:\Users\Cristian Hurtado\Desktop\Unity\Projectts\Ejemplo_git\game_pas\Library\PackageCache\com.unity.2d.tilemap@1.0.0
+>>>>>>> develop
 >>>>>>> develop
       assetPath: Packages/com.unity.2d.tilemap
       name: com.unity.2d.tilemap
@@ -701,9 +741,13 @@ m_PackageAssets:
       version: 3.7.5
       source: 1
 <<<<<<< HEAD
+      resolvedPath: C:\Users\Jhonnier Garcia\Desktop\Recursos Unity\copia gamepas\game_pas\Library\PackageCache\com.unity.ads@3.7.5
+=======
+<<<<<<< HEAD
       resolvedPath: C:\Users\Usuario\JUEGO UNITY COMPLETO\game_pas\Library\PackageCache\com.unity.ads@3.7.5
 =======
       resolvedPath: C:\Users\Cristian Hurtado\Desktop\Unity\Projectts\Ejemplo_git\game_pas\Library\PackageCache\com.unity.ads@2.0.8
+>>>>>>> develop
 >>>>>>> develop
       assetPath: Packages/com.unity.ads
       name: com.unity.ads
@@ -851,9 +895,13 @@ m_PackageAssets:
       version: 3.6.12
       source: 1
 <<<<<<< HEAD
+      resolvedPath: C:\Users\Jhonnier Garcia\Desktop\Recursos Unity\copia gamepas\game_pas\Library\PackageCache\com.unity.analytics@3.6.12
+=======
+<<<<<<< HEAD
       resolvedPath: C:\Users\Usuario\JUEGO UNITY COMPLETO\game_pas\Library\PackageCache\com.unity.analytics@3.6.12
 =======
       resolvedPath: C:\Users\Cristian Hurtado\Desktop\Unity\Projectts\Ejemplo_git\game_pas\Library\PackageCache\com.unity.analytics@3.2.2
+>>>>>>> develop
 >>>>>>> develop
       assetPath: Packages/com.unity.analytics
       name: com.unity.analytics
@@ -987,9 +1035,13 @@ m_PackageAssets:
       version: 1.15.13
       source: 1
 <<<<<<< HEAD
+      resolvedPath: C:\Users\Jhonnier Garcia\Desktop\Recursos Unity\copia gamepas\game_pas\Library\PackageCache\com.unity.collab-proxy@1.15.13
+=======
+<<<<<<< HEAD
       resolvedPath: C:\Users\Usuario\JUEGO UNITY COMPLETO\game_pas\Library\PackageCache\com.unity.collab-proxy@1.15.13
 =======
       resolvedPath: C:\Users\Cristian Hurtado\Desktop\Unity\Projectts\Ejemplo_git\game_pas\Library\PackageCache\com.unity.collab-proxy@1.15.12
+>>>>>>> develop
 >>>>>>> develop
       assetPath: Packages/com.unity.collab-proxy
       name: com.unity.collab-proxy
@@ -1066,7 +1118,6 @@ m_PackageAssets:
         - 2.1.0-preview.5
         - 2.1.0-preview.6
         compatible:
-        - 1.15.12
         - 1.15.13
         - 1.15.15
         - 1.15.16
@@ -1131,9 +1182,13 @@ m_PackageAssets:
       version: 2.0.7
       source: 1
 <<<<<<< HEAD
+      resolvedPath: C:\Users\Jhonnier Garcia\Desktop\Recursos Unity\copia gamepas\game_pas\Library\PackageCache\com.unity.ide.rider@2.0.7
+=======
+<<<<<<< HEAD
       resolvedPath: C:\Users\Usuario\JUEGO UNITY COMPLETO\game_pas\Library\PackageCache\com.unity.ide.rider@2.0.7
 =======
       resolvedPath: C:\Users\Cristian Hurtado\Desktop\Unity\Projectts\Ejemplo_git\game_pas\Library\PackageCache\com.unity.ide.rider@2.0.7
+>>>>>>> develop
 >>>>>>> develop
       assetPath: Packages/com.unity.ide.rider
       name: com.unity.ide.rider
@@ -1252,9 +1307,13 @@ m_PackageAssets:
       version: 4.1.3
       source: 1
 <<<<<<< HEAD
+      resolvedPath: C:\Users\Jhonnier Garcia\Desktop\Recursos Unity\copia gamepas\game_pas\Library\PackageCache\com.unity.purchasing@4.1.3
+=======
+<<<<<<< HEAD
       resolvedPath: C:\Users\Usuario\JUEGO UNITY COMPLETO\game_pas\Library\PackageCache\com.unity.purchasing@4.1.3
 =======
       resolvedPath: C:\Users\Cristian Hurtado\Desktop\Unity\Projectts\Ejemplo_git\game_pas\Library\PackageCache\com.unity.purchasing@2.0.3
+>>>>>>> develop
 >>>>>>> develop
       assetPath: Packages/com.unity.purchasing
       name: com.unity.purchasing
@@ -1384,6 +1443,9 @@ m_PackageAssets:
         - 4.2.0-pre.2
         verified: 4.1.5
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> develop
       dependencies:
       - name: com.unity.ugui
         version: 1.0.0
@@ -1414,9 +1476,12 @@ m_PackageAssets:
         version: 1.0.0
       - name: com.unity.services.core
         version: 1.0.1
+<<<<<<< HEAD
+=======
 =======
       dependencies: []
       resolvedDependencies: []
+>>>>>>> develop
 >>>>>>> develop
       keywords:
       - purchasing
@@ -1448,9 +1513,13 @@ m_PackageAssets:
       version: 1.1.31
       source: 1
 <<<<<<< HEAD
+      resolvedPath: C:\Users\Jhonnier Garcia\Desktop\Recursos Unity\copia gamepas\game_pas\Library\PackageCache\com.unity.test-framework@1.1.31
+=======
+<<<<<<< HEAD
       resolvedPath: C:\Users\Usuario\JUEGO UNITY COMPLETO\game_pas\Library\PackageCache\com.unity.test-framework@1.1.31
 =======
       resolvedPath: C:\Users\Cristian Hurtado\Desktop\Unity\Projectts\Ejemplo_git\game_pas\Library\PackageCache\com.unity.test-framework@1.1.29
+>>>>>>> develop
 >>>>>>> develop
       assetPath: Packages/com.unity.test-framework
       name: com.unity.test-framework
@@ -1503,8 +1572,6 @@ m_PackageAssets:
         - 2.0.1-pre.12
         - 2.0.1-pre.18
         compatible:
-        - 1.1.29
-        - 1.1.30
         - 1.1.31
         - 2.0.1-exp.1
         - 2.0.1-pre.12
@@ -1553,9 +1620,13 @@ m_PackageAssets:
       version: 3.0.6
       source: 1
 <<<<<<< HEAD
+      resolvedPath: C:\Users\Jhonnier Garcia\Desktop\Recursos Unity\copia gamepas\game_pas\Library\PackageCache\com.unity.textmeshpro@3.0.6
+=======
+<<<<<<< HEAD
       resolvedPath: C:\Users\Usuario\JUEGO UNITY COMPLETO\game_pas\Library\PackageCache\com.unity.textmeshpro@3.0.6
 =======
       resolvedPath: C:\Users\Cristian Hurtado\Desktop\Unity\Projectts\Ejemplo_git\game_pas\Library\PackageCache\com.unity.textmeshpro@3.0.6
+>>>>>>> develop
 >>>>>>> develop
       assetPath: Packages/com.unity.textmeshpro
       name: com.unity.textmeshpro
@@ -1723,9 +1794,13 @@ m_PackageAssets:
       version: 1.4.8
       source: 1
 <<<<<<< HEAD
+      resolvedPath: C:\Users\Jhonnier Garcia\Desktop\Recursos Unity\copia gamepas\game_pas\Library\PackageCache\com.unity.timeline@1.4.8
+=======
+<<<<<<< HEAD
       resolvedPath: C:\Users\Usuario\JUEGO UNITY COMPLETO\game_pas\Library\PackageCache\com.unity.timeline@1.4.8
 =======
       resolvedPath: C:\Users\Cristian Hurtado\Desktop\Unity\Projectts\Ejemplo_git\game_pas\Library\PackageCache\com.unity.timeline@1.4.8
+>>>>>>> develop
 >>>>>>> develop
       assetPath: Packages/com.unity.timeline
       name: com.unity.timeline
@@ -1893,9 +1968,13 @@ m_PackageAssets:
       version: 1.0.0
       source: 2
 <<<<<<< HEAD
+      resolvedPath: C:\Users\Jhonnier Garcia\Desktop\Recursos Unity\copia gamepas\game_pas\Library\PackageCache\com.unity.ugui@1.0.0
+=======
+<<<<<<< HEAD
       resolvedPath: C:\Users\Usuario\JUEGO UNITY COMPLETO\game_pas\Library\PackageCache\com.unity.ugui@1.0.0
 =======
       resolvedPath: C:\Users\Cristian Hurtado\Desktop\Unity\Projectts\Ejemplo_git\game_pas\Library\PackageCache\com.unity.ugui@1.0.0
+>>>>>>> develop
 >>>>>>> develop
       assetPath: Packages/com.unity.ugui
       name: com.unity.ugui
@@ -1960,9 +2039,13 @@ m_PackageAssets:
       version: 1.0.0
       source: 2
 <<<<<<< HEAD
+      resolvedPath: C:\Users\Jhonnier Garcia\Desktop\Recursos Unity\copia gamepas\game_pas\Library\PackageCache\com.unity.modules.ai@1.0.0
+=======
+<<<<<<< HEAD
       resolvedPath: C:\Users\Usuario\JUEGO UNITY COMPLETO\game_pas\Library\PackageCache\com.unity.modules.ai@1.0.0
 =======
       resolvedPath: C:\Users\Cristian Hurtado\Desktop\Unity\Projectts\Ejemplo_git\game_pas\Library\PackageCache\com.unity.modules.ai@1.0.0
+>>>>>>> develop
 >>>>>>> develop
       assetPath: Packages/com.unity.modules.ai
       name: com.unity.modules.ai
@@ -2012,9 +2095,13 @@ m_PackageAssets:
       version: 1.0.0
       source: 2
 <<<<<<< HEAD
+      resolvedPath: C:\Users\Jhonnier Garcia\Desktop\Recursos Unity\copia gamepas\game_pas\Library\PackageCache\com.unity.modules.androidjni@1.0.0
+=======
+<<<<<<< HEAD
       resolvedPath: C:\Users\Usuario\JUEGO UNITY COMPLETO\game_pas\Library\PackageCache\com.unity.modules.androidjni@1.0.0
 =======
       resolvedPath: C:\Users\Cristian Hurtado\Desktop\Unity\Projectts\Ejemplo_git\game_pas\Library\PackageCache\com.unity.modules.androidjni@1.0.0
+>>>>>>> develop
 >>>>>>> develop
       assetPath: Packages/com.unity.modules.androidjni
       name: com.unity.modules.androidjni
@@ -2064,9 +2151,13 @@ m_PackageAssets:
       version: 1.0.0
       source: 2
 <<<<<<< HEAD
+      resolvedPath: C:\Users\Jhonnier Garcia\Desktop\Recursos Unity\copia gamepas\game_pas\Library\PackageCache\com.unity.modules.animation@1.0.0
+=======
+<<<<<<< HEAD
       resolvedPath: C:\Users\Usuario\JUEGO UNITY COMPLETO\game_pas\Library\PackageCache\com.unity.modules.animation@1.0.0
 =======
       resolvedPath: C:\Users\Cristian Hurtado\Desktop\Unity\Projectts\Ejemplo_git\game_pas\Library\PackageCache\com.unity.modules.animation@1.0.0
+>>>>>>> develop
 >>>>>>> develop
       assetPath: Packages/com.unity.modules.animation
       name: com.unity.modules.animation
@@ -2116,9 +2207,13 @@ m_PackageAssets:
       version: 1.0.0
       source: 2
 <<<<<<< HEAD
+      resolvedPath: C:\Users\Jhonnier Garcia\Desktop\Recursos Unity\copia gamepas\game_pas\Library\PackageCache\com.unity.modules.assetbundle@1.0.0
+=======
+<<<<<<< HEAD
       resolvedPath: C:\Users\Usuario\JUEGO UNITY COMPLETO\game_pas\Library\PackageCache\com.unity.modules.assetbundle@1.0.0
 =======
       resolvedPath: C:\Users\Cristian Hurtado\Desktop\Unity\Projectts\Ejemplo_git\game_pas\Library\PackageCache\com.unity.modules.assetbundle@1.0.0
+>>>>>>> develop
 >>>>>>> develop
       assetPath: Packages/com.unity.modules.assetbundle
       name: com.unity.modules.assetbundle
@@ -2168,9 +2263,13 @@ m_PackageAssets:
       version: 1.0.0
       source: 2
 <<<<<<< HEAD
+      resolvedPath: C:\Users\Jhonnier Garcia\Desktop\Recursos Unity\copia gamepas\game_pas\Library\PackageCache\com.unity.modules.audio@1.0.0
+=======
+<<<<<<< HEAD
       resolvedPath: C:\Users\Usuario\JUEGO UNITY COMPLETO\game_pas\Library\PackageCache\com.unity.modules.audio@1.0.0
 =======
       resolvedPath: C:\Users\Cristian Hurtado\Desktop\Unity\Projectts\Ejemplo_git\game_pas\Library\PackageCache\com.unity.modules.audio@1.0.0
+>>>>>>> develop
 >>>>>>> develop
       assetPath: Packages/com.unity.modules.audio
       name: com.unity.modules.audio
@@ -2220,9 +2319,13 @@ m_PackageAssets:
       version: 1.0.0
       source: 2
 <<<<<<< HEAD
+      resolvedPath: C:\Users\Jhonnier Garcia\Desktop\Recursos Unity\copia gamepas\game_pas\Library\PackageCache\com.unity.modules.cloth@1.0.0
+=======
+<<<<<<< HEAD
       resolvedPath: C:\Users\Usuario\JUEGO UNITY COMPLETO\game_pas\Library\PackageCache\com.unity.modules.cloth@1.0.0
 =======
       resolvedPath: C:\Users\Cristian Hurtado\Desktop\Unity\Projectts\Ejemplo_git\game_pas\Library\PackageCache\com.unity.modules.cloth@1.0.0
+>>>>>>> develop
 >>>>>>> develop
       assetPath: Packages/com.unity.modules.cloth
       name: com.unity.modules.cloth
@@ -2276,9 +2379,13 @@ m_PackageAssets:
       version: 1.0.0
       source: 2
 <<<<<<< HEAD
+      resolvedPath: C:\Users\Jhonnier Garcia\Desktop\Recursos Unity\copia gamepas\game_pas\Library\PackageCache\com.unity.modules.director@1.0.0
+=======
+<<<<<<< HEAD
       resolvedPath: C:\Users\Usuario\JUEGO UNITY COMPLETO\game_pas\Library\PackageCache\com.unity.modules.director@1.0.0
 =======
       resolvedPath: C:\Users\Cristian Hurtado\Desktop\Unity\Projectts\Ejemplo_git\game_pas\Library\PackageCache\com.unity.modules.director@1.0.0
+>>>>>>> develop
 >>>>>>> develop
       assetPath: Packages/com.unity.modules.director
       name: com.unity.modules.director
@@ -2336,9 +2443,13 @@ m_PackageAssets:
       version: 1.0.0
       source: 2
 <<<<<<< HEAD
+      resolvedPath: C:\Users\Jhonnier Garcia\Desktop\Recursos Unity\copia gamepas\game_pas\Library\PackageCache\com.unity.modules.imageconversion@1.0.0
+=======
+<<<<<<< HEAD
       resolvedPath: C:\Users\Usuario\JUEGO UNITY COMPLETO\game_pas\Library\PackageCache\com.unity.modules.imageconversion@1.0.0
 =======
       resolvedPath: C:\Users\Cristian Hurtado\Desktop\Unity\Projectts\Ejemplo_git\game_pas\Library\PackageCache\com.unity.modules.imageconversion@1.0.0
+>>>>>>> develop
 >>>>>>> develop
       assetPath: Packages/com.unity.modules.imageconversion
       name: com.unity.modules.imageconversion
@@ -2389,9 +2500,13 @@ m_PackageAssets:
       version: 1.0.0
       source: 2
 <<<<<<< HEAD
+      resolvedPath: C:\Users\Jhonnier Garcia\Desktop\Recursos Unity\copia gamepas\game_pas\Library\PackageCache\com.unity.modules.imgui@1.0.0
+=======
+<<<<<<< HEAD
       resolvedPath: C:\Users\Usuario\JUEGO UNITY COMPLETO\game_pas\Library\PackageCache\com.unity.modules.imgui@1.0.0
 =======
       resolvedPath: C:\Users\Cristian Hurtado\Desktop\Unity\Projectts\Ejemplo_git\game_pas\Library\PackageCache\com.unity.modules.imgui@1.0.0
+>>>>>>> develop
 >>>>>>> develop
       assetPath: Packages/com.unity.modules.imgui
       name: com.unity.modules.imgui
@@ -2441,9 +2556,13 @@ m_PackageAssets:
       version: 1.0.0
       source: 2
 <<<<<<< HEAD
+      resolvedPath: C:\Users\Jhonnier Garcia\Desktop\Recursos Unity\copia gamepas\game_pas\Library\PackageCache\com.unity.modules.jsonserialize@1.0.0
+=======
+<<<<<<< HEAD
       resolvedPath: C:\Users\Usuario\JUEGO UNITY COMPLETO\game_pas\Library\PackageCache\com.unity.modules.jsonserialize@1.0.0
 =======
       resolvedPath: C:\Users\Cristian Hurtado\Desktop\Unity\Projectts\Ejemplo_git\game_pas\Library\PackageCache\com.unity.modules.jsonserialize@1.0.0
+>>>>>>> develop
 >>>>>>> develop
       assetPath: Packages/com.unity.modules.jsonserialize
       name: com.unity.modules.jsonserialize
@@ -2493,9 +2612,13 @@ m_PackageAssets:
       version: 1.0.0
       source: 2
 <<<<<<< HEAD
+      resolvedPath: C:\Users\Jhonnier Garcia\Desktop\Recursos Unity\copia gamepas\game_pas\Library\PackageCache\com.unity.modules.particlesystem@1.0.0
+=======
+<<<<<<< HEAD
       resolvedPath: C:\Users\Usuario\JUEGO UNITY COMPLETO\game_pas\Library\PackageCache\com.unity.modules.particlesystem@1.0.0
 =======
       resolvedPath: C:\Users\Cristian Hurtado\Desktop\Unity\Projectts\Ejemplo_git\game_pas\Library\PackageCache\com.unity.modules.particlesystem@1.0.0
+>>>>>>> develop
 >>>>>>> develop
       assetPath: Packages/com.unity.modules.particlesystem
       name: com.unity.modules.particlesystem
@@ -2545,9 +2668,13 @@ m_PackageAssets:
       version: 1.0.0
       source: 2
 <<<<<<< HEAD
+      resolvedPath: C:\Users\Jhonnier Garcia\Desktop\Recursos Unity\copia gamepas\game_pas\Library\PackageCache\com.unity.modules.physics@1.0.0
+=======
+<<<<<<< HEAD
       resolvedPath: C:\Users\Usuario\JUEGO UNITY COMPLETO\game_pas\Library\PackageCache\com.unity.modules.physics@1.0.0
 =======
       resolvedPath: C:\Users\Cristian Hurtado\Desktop\Unity\Projectts\Ejemplo_git\game_pas\Library\PackageCache\com.unity.modules.physics@1.0.0
+>>>>>>> develop
 >>>>>>> develop
       assetPath: Packages/com.unity.modules.physics
       name: com.unity.modules.physics
@@ -2597,9 +2724,13 @@ m_PackageAssets:
       version: 1.0.0
       source: 2
 <<<<<<< HEAD
+      resolvedPath: C:\Users\Jhonnier Garcia\Desktop\Recursos Unity\copia gamepas\game_pas\Library\PackageCache\com.unity.modules.physics2d@1.0.0
+=======
+<<<<<<< HEAD
       resolvedPath: C:\Users\Usuario\JUEGO UNITY COMPLETO\game_pas\Library\PackageCache\com.unity.modules.physics2d@1.0.0
 =======
       resolvedPath: C:\Users\Cristian Hurtado\Desktop\Unity\Projectts\Ejemplo_git\game_pas\Library\PackageCache\com.unity.modules.physics2d@1.0.0
+>>>>>>> develop
 >>>>>>> develop
       assetPath: Packages/com.unity.modules.physics2d
       name: com.unity.modules.physics2d
@@ -2649,9 +2780,13 @@ m_PackageAssets:
       version: 1.0.0
       source: 2
 <<<<<<< HEAD
+      resolvedPath: C:\Users\Jhonnier Garcia\Desktop\Recursos Unity\copia gamepas\game_pas\Library\PackageCache\com.unity.modules.screencapture@1.0.0
+=======
+<<<<<<< HEAD
       resolvedPath: C:\Users\Usuario\JUEGO UNITY COMPLETO\game_pas\Library\PackageCache\com.unity.modules.screencapture@1.0.0
 =======
       resolvedPath: C:\Users\Cristian Hurtado\Desktop\Unity\Projectts\Ejemplo_git\game_pas\Library\PackageCache\com.unity.modules.screencapture@1.0.0
+>>>>>>> develop
 >>>>>>> develop
       assetPath: Packages/com.unity.modules.screencapture
       name: com.unity.modules.screencapture
@@ -2705,9 +2840,13 @@ m_PackageAssets:
       version: 1.0.0
       source: 2
 <<<<<<< HEAD
+      resolvedPath: C:\Users\Jhonnier Garcia\Desktop\Recursos Unity\copia gamepas\game_pas\Library\PackageCache\com.unity.modules.terrain@1.0.0
+=======
+<<<<<<< HEAD
       resolvedPath: C:\Users\Usuario\JUEGO UNITY COMPLETO\game_pas\Library\PackageCache\com.unity.modules.terrain@1.0.0
 =======
       resolvedPath: C:\Users\Cristian Hurtado\Desktop\Unity\Projectts\Ejemplo_git\game_pas\Library\PackageCache\com.unity.modules.terrain@1.0.0
+>>>>>>> develop
 >>>>>>> develop
       assetPath: Packages/com.unity.modules.terrain
       name: com.unity.modules.terrain
@@ -2757,9 +2896,13 @@ m_PackageAssets:
       version: 1.0.0
       source: 2
 <<<<<<< HEAD
+      resolvedPath: C:\Users\Jhonnier Garcia\Desktop\Recursos Unity\copia gamepas\game_pas\Library\PackageCache\com.unity.modules.terrainphysics@1.0.0
+=======
+<<<<<<< HEAD
       resolvedPath: C:\Users\Usuario\JUEGO UNITY COMPLETO\game_pas\Library\PackageCache\com.unity.modules.terrainphysics@1.0.0
 =======
       resolvedPath: C:\Users\Cristian Hurtado\Desktop\Unity\Projectts\Ejemplo_git\game_pas\Library\PackageCache\com.unity.modules.terrainphysics@1.0.0
+>>>>>>> develop
 >>>>>>> develop
       assetPath: Packages/com.unity.modules.terrainphysics
       name: com.unity.modules.terrainphysics
@@ -2817,9 +2960,13 @@ m_PackageAssets:
       version: 1.0.0
       source: 2
 <<<<<<< HEAD
+      resolvedPath: C:\Users\Jhonnier Garcia\Desktop\Recursos Unity\copia gamepas\game_pas\Library\PackageCache\com.unity.modules.tilemap@1.0.0
+=======
+<<<<<<< HEAD
       resolvedPath: C:\Users\Usuario\JUEGO UNITY COMPLETO\game_pas\Library\PackageCache\com.unity.modules.tilemap@1.0.0
 =======
       resolvedPath: C:\Users\Cristian Hurtado\Desktop\Unity\Projectts\Ejemplo_git\game_pas\Library\PackageCache\com.unity.modules.tilemap@1.0.0
+>>>>>>> develop
 >>>>>>> develop
       assetPath: Packages/com.unity.modules.tilemap
       name: com.unity.modules.tilemap
@@ -2873,9 +3020,13 @@ m_PackageAssets:
       version: 1.0.0
       source: 2
 <<<<<<< HEAD
+      resolvedPath: C:\Users\Jhonnier Garcia\Desktop\Recursos Unity\copia gamepas\game_pas\Library\PackageCache\com.unity.modules.ui@1.0.0
+=======
+<<<<<<< HEAD
       resolvedPath: C:\Users\Usuario\JUEGO UNITY COMPLETO\game_pas\Library\PackageCache\com.unity.modules.ui@1.0.0
 =======
       resolvedPath: C:\Users\Cristian Hurtado\Desktop\Unity\Projectts\Ejemplo_git\game_pas\Library\PackageCache\com.unity.modules.ui@1.0.0
+>>>>>>> develop
 >>>>>>> develop
       assetPath: Packages/com.unity.modules.ui
       name: com.unity.modules.ui
@@ -2925,9 +3076,13 @@ m_PackageAssets:
       version: 1.0.0
       source: 2
 <<<<<<< HEAD
+      resolvedPath: C:\Users\Jhonnier Garcia\Desktop\Recursos Unity\copia gamepas\game_pas\Library\PackageCache\com.unity.modules.uielements@1.0.0
+=======
+<<<<<<< HEAD
       resolvedPath: C:\Users\Usuario\JUEGO UNITY COMPLETO\game_pas\Library\PackageCache\com.unity.modules.uielements@1.0.0
 =======
       resolvedPath: C:\Users\Cristian Hurtado\Desktop\Unity\Projectts\Ejemplo_git\game_pas\Library\PackageCache\com.unity.modules.uielements@1.0.0
+>>>>>>> develop
 >>>>>>> develop
       assetPath: Packages/com.unity.modules.uielements
       name: com.unity.modules.uielements
@@ -2993,9 +3148,13 @@ m_PackageAssets:
       version: 1.0.0
       source: 2
 <<<<<<< HEAD
+      resolvedPath: C:\Users\Jhonnier Garcia\Desktop\Recursos Unity\copia gamepas\game_pas\Library\PackageCache\com.unity.modules.umbra@1.0.0
+=======
+<<<<<<< HEAD
       resolvedPath: C:\Users\Usuario\JUEGO UNITY COMPLETO\game_pas\Library\PackageCache\com.unity.modules.umbra@1.0.0
 =======
       resolvedPath: C:\Users\Cristian Hurtado\Desktop\Unity\Projectts\Ejemplo_git\game_pas\Library\PackageCache\com.unity.modules.umbra@1.0.0
+>>>>>>> develop
 >>>>>>> develop
       assetPath: Packages/com.unity.modules.umbra
       name: com.unity.modules.umbra
@@ -3045,9 +3204,13 @@ m_PackageAssets:
       version: 1.0.0
       source: 2
 <<<<<<< HEAD
+      resolvedPath: C:\Users\Jhonnier Garcia\Desktop\Recursos Unity\copia gamepas\game_pas\Library\PackageCache\com.unity.modules.unityanalytics@1.0.0
+=======
+<<<<<<< HEAD
       resolvedPath: C:\Users\Usuario\JUEGO UNITY COMPLETO\game_pas\Library\PackageCache\com.unity.modules.unityanalytics@1.0.0
 =======
       resolvedPath: C:\Users\Cristian Hurtado\Desktop\Unity\Projectts\Ejemplo_git\game_pas\Library\PackageCache\com.unity.modules.unityanalytics@1.0.0
+>>>>>>> develop
 >>>>>>> develop
       assetPath: Packages/com.unity.modules.unityanalytics
       name: com.unity.modules.unityanalytics
@@ -3105,9 +3268,13 @@ m_PackageAssets:
       version: 1.0.0
       source: 2
 <<<<<<< HEAD
+      resolvedPath: C:\Users\Jhonnier Garcia\Desktop\Recursos Unity\copia gamepas\game_pas\Library\PackageCache\com.unity.modules.unitywebrequest@1.0.0
+=======
+<<<<<<< HEAD
       resolvedPath: C:\Users\Usuario\JUEGO UNITY COMPLETO\game_pas\Library\PackageCache\com.unity.modules.unitywebrequest@1.0.0
 =======
       resolvedPath: C:\Users\Cristian Hurtado\Desktop\Unity\Projectts\Ejemplo_git\game_pas\Library\PackageCache\com.unity.modules.unitywebrequest@1.0.0
+>>>>>>> develop
 >>>>>>> develop
       assetPath: Packages/com.unity.modules.unitywebrequest
       name: com.unity.modules.unitywebrequest
@@ -3157,9 +3324,13 @@ m_PackageAssets:
       version: 1.0.0
       source: 2
 <<<<<<< HEAD
+      resolvedPath: C:\Users\Jhonnier Garcia\Desktop\Recursos Unity\copia gamepas\game_pas\Library\PackageCache\com.unity.modules.unitywebrequestassetbundle@1.0.0
+=======
+<<<<<<< HEAD
       resolvedPath: C:\Users\Usuario\JUEGO UNITY COMPLETO\game_pas\Library\PackageCache\com.unity.modules.unitywebrequestassetbundle@1.0.0
 =======
       resolvedPath: C:\Users\Cristian Hurtado\Desktop\Unity\Projectts\Ejemplo_git\game_pas\Library\PackageCache\com.unity.modules.unitywebrequestassetbundle@1.0.0
+>>>>>>> develop
 >>>>>>> develop
       assetPath: Packages/com.unity.modules.unitywebrequestassetbundle
       name: com.unity.modules.unitywebrequestassetbundle
@@ -3217,9 +3388,13 @@ m_PackageAssets:
       version: 1.0.0
       source: 2
 <<<<<<< HEAD
+      resolvedPath: C:\Users\Jhonnier Garcia\Desktop\Recursos Unity\copia gamepas\game_pas\Library\PackageCache\com.unity.modules.unitywebrequestaudio@1.0.0
+=======
+<<<<<<< HEAD
       resolvedPath: C:\Users\Usuario\JUEGO UNITY COMPLETO\game_pas\Library\PackageCache\com.unity.modules.unitywebrequestaudio@1.0.0
 =======
       resolvedPath: C:\Users\Cristian Hurtado\Desktop\Unity\Projectts\Ejemplo_git\game_pas\Library\PackageCache\com.unity.modules.unitywebrequestaudio@1.0.0
+>>>>>>> develop
 >>>>>>> develop
       assetPath: Packages/com.unity.modules.unitywebrequestaudio
       name: com.unity.modules.unitywebrequestaudio
@@ -3277,9 +3452,13 @@ m_PackageAssets:
       version: 1.0.0
       source: 2
 <<<<<<< HEAD
+      resolvedPath: C:\Users\Jhonnier Garcia\Desktop\Recursos Unity\copia gamepas\game_pas\Library\PackageCache\com.unity.modules.unitywebrequesttexture@1.0.0
+=======
+<<<<<<< HEAD
       resolvedPath: C:\Users\Usuario\JUEGO UNITY COMPLETO\game_pas\Library\PackageCache\com.unity.modules.unitywebrequesttexture@1.0.0
 =======
       resolvedPath: C:\Users\Cristian Hurtado\Desktop\Unity\Projectts\Ejemplo_git\game_pas\Library\PackageCache\com.unity.modules.unitywebrequesttexture@1.0.0
+>>>>>>> develop
 >>>>>>> develop
       assetPath: Packages/com.unity.modules.unitywebrequesttexture
       name: com.unity.modules.unitywebrequesttexture
@@ -3337,9 +3516,13 @@ m_PackageAssets:
       version: 1.0.0
       source: 2
 <<<<<<< HEAD
+      resolvedPath: C:\Users\Jhonnier Garcia\Desktop\Recursos Unity\copia gamepas\game_pas\Library\PackageCache\com.unity.modules.unitywebrequestwww@1.0.0
+=======
+<<<<<<< HEAD
       resolvedPath: C:\Users\Usuario\JUEGO UNITY COMPLETO\game_pas\Library\PackageCache\com.unity.modules.unitywebrequestwww@1.0.0
 =======
       resolvedPath: C:\Users\Cristian Hurtado\Desktop\Unity\Projectts\Ejemplo_git\game_pas\Library\PackageCache\com.unity.modules.unitywebrequestwww@1.0.0
+>>>>>>> develop
 >>>>>>> develop
       assetPath: Packages/com.unity.modules.unitywebrequestwww
       name: com.unity.modules.unitywebrequestwww
@@ -3413,9 +3596,13 @@ m_PackageAssets:
       version: 1.0.0
       source: 2
 <<<<<<< HEAD
+      resolvedPath: C:\Users\Jhonnier Garcia\Desktop\Recursos Unity\copia gamepas\game_pas\Library\PackageCache\com.unity.modules.vehicles@1.0.0
+=======
+<<<<<<< HEAD
       resolvedPath: C:\Users\Usuario\JUEGO UNITY COMPLETO\game_pas\Library\PackageCache\com.unity.modules.vehicles@1.0.0
 =======
       resolvedPath: C:\Users\Cristian Hurtado\Desktop\Unity\Projectts\Ejemplo_git\game_pas\Library\PackageCache\com.unity.modules.vehicles@1.0.0
+>>>>>>> develop
 >>>>>>> develop
       assetPath: Packages/com.unity.modules.vehicles
       name: com.unity.modules.vehicles
@@ -3469,9 +3656,13 @@ m_PackageAssets:
       version: 1.0.0
       source: 2
 <<<<<<< HEAD
+      resolvedPath: C:\Users\Jhonnier Garcia\Desktop\Recursos Unity\copia gamepas\game_pas\Library\PackageCache\com.unity.modules.video@1.0.0
+=======
+<<<<<<< HEAD
       resolvedPath: C:\Users\Usuario\JUEGO UNITY COMPLETO\game_pas\Library\PackageCache\com.unity.modules.video@1.0.0
 =======
       resolvedPath: C:\Users\Cristian Hurtado\Desktop\Unity\Projectts\Ejemplo_git\game_pas\Library\PackageCache\com.unity.modules.video@1.0.0
+>>>>>>> develop
 >>>>>>> develop
       assetPath: Packages/com.unity.modules.video
       name: com.unity.modules.video
@@ -3533,9 +3724,13 @@ m_PackageAssets:
       version: 1.0.0
       source: 2
 <<<<<<< HEAD
+      resolvedPath: C:\Users\Jhonnier Garcia\Desktop\Recursos Unity\copia gamepas\game_pas\Library\PackageCache\com.unity.modules.vr@1.0.0
+=======
+<<<<<<< HEAD
       resolvedPath: C:\Users\Usuario\JUEGO UNITY COMPLETO\game_pas\Library\PackageCache\com.unity.modules.vr@1.0.0
 =======
       resolvedPath: C:\Users\Cristian Hurtado\Desktop\Unity\Projectts\Ejemplo_git\game_pas\Library\PackageCache\com.unity.modules.vr@1.0.0
+>>>>>>> develop
 >>>>>>> develop
       assetPath: Packages/com.unity.modules.vr
       name: com.unity.modules.vr
@@ -3599,9 +3794,13 @@ m_PackageAssets:
       version: 1.0.0
       source: 2
 <<<<<<< HEAD
+      resolvedPath: C:\Users\Jhonnier Garcia\Desktop\Recursos Unity\copia gamepas\game_pas\Library\PackageCache\com.unity.modules.wind@1.0.0
+=======
+<<<<<<< HEAD
       resolvedPath: C:\Users\Usuario\JUEGO UNITY COMPLETO\game_pas\Library\PackageCache\com.unity.modules.wind@1.0.0
 =======
       resolvedPath: C:\Users\Cristian Hurtado\Desktop\Unity\Projectts\Ejemplo_git\game_pas\Library\PackageCache\com.unity.modules.wind@1.0.0
+>>>>>>> develop
 >>>>>>> develop
       assetPath: Packages/com.unity.modules.wind
       name: com.unity.modules.wind
@@ -3651,9 +3850,13 @@ m_PackageAssets:
       version: 1.0.0
       source: 2
 <<<<<<< HEAD
+      resolvedPath: C:\Users\Jhonnier Garcia\Desktop\Recursos Unity\copia gamepas\game_pas\Library\PackageCache\com.unity.modules.xr@1.0.0
+=======
+<<<<<<< HEAD
       resolvedPath: C:\Users\Usuario\JUEGO UNITY COMPLETO\game_pas\Library\PackageCache\com.unity.modules.xr@1.0.0
 =======
       resolvedPath: C:\Users\Cristian Hurtado\Desktop\Unity\Projectts\Ejemplo_git\game_pas\Library\PackageCache\com.unity.modules.xr@1.0.0
+>>>>>>> develop
 >>>>>>> develop
       assetPath: Packages/com.unity.modules.xr
       name: com.unity.modules.xr
@@ -3715,9 +3918,13 @@ m_PackageAssets:
       version: 1.0.0
       source: 2
 <<<<<<< HEAD
+      resolvedPath: C:\Users\Jhonnier Garcia\Desktop\Recursos Unity\copia gamepas\game_pas\Library\PackageCache\com.unity.modules.subsystems@1.0.0
+=======
+<<<<<<< HEAD
       resolvedPath: C:\Users\Usuario\JUEGO UNITY COMPLETO\game_pas\Library\PackageCache\com.unity.modules.subsystems@1.0.0
 =======
       resolvedPath: C:\Users\Cristian Hurtado\Desktop\Unity\Projectts\Ejemplo_git\game_pas\Library\PackageCache\com.unity.modules.subsystems@1.0.0
+>>>>>>> develop
 >>>>>>> develop
       assetPath: Packages/com.unity.modules.subsystems
       name: com.unity.modules.subsystems
@@ -3771,9 +3978,13 @@ m_PackageAssets:
       version: 1.0.0
       source: 2
 <<<<<<< HEAD
+      resolvedPath: C:\Users\Jhonnier Garcia\Desktop\Recursos Unity\copia gamepas\game_pas\Library\PackageCache\com.unity.modules.uielementsnative@1.0.0
+=======
+<<<<<<< HEAD
       resolvedPath: C:\Users\Usuario\JUEGO UNITY COMPLETO\game_pas\Library\PackageCache\com.unity.modules.uielementsnative@1.0.0
 =======
       resolvedPath: C:\Users\Cristian Hurtado\Desktop\Unity\Projectts\Ejemplo_git\game_pas\Library\PackageCache\com.unity.modules.uielementsnative@1.0.0
+>>>>>>> develop
 >>>>>>> develop
       assetPath: Packages/com.unity.modules.uielementsnative
       name: com.unity.modules.uielementsnative
@@ -3834,9 +4045,13 @@ m_PackageAssets:
       version: 1.0.6
       source: 1
 <<<<<<< HEAD
+      resolvedPath: C:\Users\Jhonnier Garcia\Desktop\Recursos Unity\copia gamepas\game_pas\Library\PackageCache\com.unity.ext.nunit@1.0.6
+=======
+<<<<<<< HEAD
       resolvedPath: C:\Users\Usuario\JUEGO UNITY COMPLETO\game_pas\Library\PackageCache\com.unity.ext.nunit@1.0.6
 =======
       resolvedPath: C:\Users\Cristian Hurtado\Desktop\Unity\Projectts\Ejemplo_git\game_pas\Library\PackageCache\com.unity.ext.nunit@1.0.6
+>>>>>>> develop
 >>>>>>> develop
       assetPath: Packages/com.unity.ext.nunit
       name: com.unity.ext.nunit
@@ -3901,9 +4116,13 @@ m_PackageAssets:
       version: 1.0.1
       source: 1
 <<<<<<< HEAD
+      resolvedPath: C:\Users\Jhonnier Garcia\Desktop\Recursos Unity\copia gamepas\game_pas\Library\PackageCache\com.unity.services.core@1.0.1
+=======
+<<<<<<< HEAD
       resolvedPath: C:\Users\Usuario\JUEGO UNITY COMPLETO\game_pas\Library\PackageCache\com.unity.services.core@1.0.1
 =======
       resolvedPath: C:\Users\Cristian Hurtado\Desktop\Unity\Projectts\Ejemplo_git\game_pas\Library\PackageCache\com.unity.services.core@1.0.1
+>>>>>>> develop
 >>>>>>> develop
       assetPath: Packages/com.unity.services.core
       name: com.unity.services.core
@@ -3984,9 +4203,13 @@ m_PackageAssets:
       version: 1.1.0
       source: 1
 <<<<<<< HEAD
+      resolvedPath: C:\Users\Jhonnier Garcia\Desktop\Recursos Unity\copia gamepas\game_pas\Library\PackageCache\com.unity.mathematics@1.1.0
+=======
+<<<<<<< HEAD
       resolvedPath: C:\Users\Usuario\JUEGO UNITY COMPLETO\game_pas\Library\PackageCache\com.unity.mathematics@1.1.0
 =======
       resolvedPath: C:\Users\Cristian Hurtado\Desktop\Unity\Projectts\Ejemplo_git\game_pas\Library\PackageCache\com.unity.mathematics@1.1.0
+>>>>>>> develop
 >>>>>>> develop
       assetPath: Packages/com.unity.mathematics
       name: com.unity.mathematics
@@ -4069,9 +4292,13 @@ m_PackageAssets:
       version: 4.1.0
       source: 1
 <<<<<<< HEAD
+      resolvedPath: C:\Users\Jhonnier Garcia\Desktop\Recursos Unity\copia gamepas\game_pas\Library\PackageCache\com.unity.2d.common@4.1.0
+=======
+<<<<<<< HEAD
       resolvedPath: C:\Users\Usuario\JUEGO UNITY COMPLETO\game_pas\Library\PackageCache\com.unity.2d.common@4.1.0
 =======
       resolvedPath: C:\Users\Cristian Hurtado\Desktop\Unity\Projectts\Ejemplo_git\game_pas\Library\PackageCache\com.unity.2d.common@4.1.0
+>>>>>>> develop
 >>>>>>> develop
       assetPath: Packages/com.unity.2d.common
       name: com.unity.2d.common
@@ -4173,9 +4400,13 @@ m_PackageAssets:
       version: 4.0.2
       source: 1
 <<<<<<< HEAD
+      resolvedPath: C:\Users\Jhonnier Garcia\Desktop\Recursos Unity\copia gamepas\game_pas\Library\PackageCache\com.unity.2d.path@4.0.2
+=======
+<<<<<<< HEAD
       resolvedPath: C:\Users\Usuario\JUEGO UNITY COMPLETO\game_pas\Library\PackageCache\com.unity.2d.path@4.0.2
 =======
       resolvedPath: C:\Users\Cristian Hurtado\Desktop\Unity\Projectts\Ejemplo_git\game_pas\Library\PackageCache\com.unity.2d.path@4.0.2
+>>>>>>> develop
 >>>>>>> develop
       assetPath: Packages/com.unity.2d.path
       name: com.unity.2d.path
@@ -4244,8 +4475,13 @@ m_PackageAssets:
   m_LocalPackages:
     m_LocalFileStatus: []
 <<<<<<< HEAD
+m_ProjectPath: C:/Users/Jhonnier Garcia/Desktop/Recursos Unity/copia gamepas/game_pas/Packages
+m_EditorVersion: 2020.3.32f1 (12f8b0834f07)
+=======
+<<<<<<< HEAD
 m_ProjectPath: C:/Users/Usuario/JUEGO UNITY COMPLETO/game_pas/Packages
 =======
 m_ProjectPath: C:/Users/Cristian Hurtado/Desktop/Unity/Projectts/Ejemplo_git/game_pas/Packages
 >>>>>>> develop
 m_EditorVersion: 2020.3.30f1 (1fb1bf06830e)
+>>>>>>> develop
