@@ -1,0 +1,6 @@
+.idea/
+GPUCache/
+Library/
+Logs/
+obj/
+.csproj
