@@ -60,7 +60,11 @@ The following packages were added:
   com.unity.package-manager-ui@2.0.7
   com.unity.purchasing@2.0.3
 
+<<<<<<< HEAD
 === Tue May 24 23:22:47 2022
+=======
+=== Tue May 24 07:43:00 2022
+>>>>>>> develop
 
 Packages were changed.
 Update Mode: updateDependencies
